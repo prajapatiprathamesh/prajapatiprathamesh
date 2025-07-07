@@ -11,15 +11,6 @@ I enjoy exploring data, uncovering trends, and telling stories through visualiza
 ---
 
 ## 📌 Recent Project Highlight
-
-### 📘 Power BI Dashboard – Online Course Analysis
-
-This project involved analyzing data from various online learning platforms to identify trends in course categories, languages, user engagement, and in-demand skills.  
-Key highlights of the dashboard:
-- Course popularity and category-wise trends  
-- Language distribution and subtitle usage  
-- Viewer behavior by duration  
-- Word cloud showing in-demand skills across different topics
    
 ---
 
