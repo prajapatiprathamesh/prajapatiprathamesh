@@ -6,7 +6,9 @@ Welcome to my project repository! I'm an entry-level data analyst currently lear
 
 ## 🧠 About Me
 
-I enjoy exploring data, uncovering trends, and telling stories through visualizations. I’ve completed **12+ projects** involving data analysis, dashboards, and machine learning models. I focus on creating clear, insightful, and practical solutions using industry-relevant tools.
+Data Analyst with nearly 1 year of practical experience gained through internships and real-world analytics projects. Recently completed an internship at Waaree Energies, where I worked with business data to generate insights and support operational decisions.
+
+Rather than simply creating dashboards, I focus on understanding business challenges, uncovering meaningful patterns in data, and delivering insights that drive measurable impact. Through 12+ analytics projects, I have helped turn raw data into strategic recommendations that enable better decision-making and business growth.
 
 ---
 
